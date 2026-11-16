@@ -52,11 +52,6 @@ python runner_up.py
 <p>
  <img width="1315" height="77" alt="Screenshot 2026-11-12 094404" src="https://github.com/user-attachments/assets/38b71737-fc0e-4197-a340-25c2f0cce6a2" />
 </p>
-### Sample Output (Placement Readiness Tracker)
-
-<p>
-  <img width="1322" height="820" alt="Screenshot 2026-11-12 093718" src="https://github.com/user-attachments/assets/0f9de5cf-4037-4ce8-9865-7cd6ac73c28d" />
-</p>
 
 ### Git Requirements Completed
 
