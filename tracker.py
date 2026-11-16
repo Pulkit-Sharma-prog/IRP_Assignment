@@ -40,6 +40,17 @@ def add_student():
 def average(student):
     return (student["aptitude"] + student["verbal"] + student["coding"]) / 3
 
+def grade(avg):
+    if avg >= 80:
+        return "A"
+    elif avg >= 60:
+        return "B"
+    elif avg >= 40:
+        return "C"
+    else:
+        return "Needs Practice"
+
+        
 def main():
     add_student()
 
